@@ -1,5 +1,5 @@
 {
-  "name": "react-qr-scanner",
+  "name": "@ntoand/react-qr-scanner",
   "version": "0.0.8",
   "description": "A react component for reading QR codes from the webcam.",
   "main": "./lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kybarg/react-qr-scanner.git"
+    "url": "https://github.com/ntoand/react-qr-scanner.git"
   },
   "keywords": [
     "react",
@@ -21,12 +21,12 @@
     "qrreader",
     "qrscanner"
   ],
-  "author": "Ruslan Kyba <kybargr@gmail.com>",
+  "author": "Toan Nguyen <ntoand@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kybarg/react-qr-scanner/issues"
+    "url": "https://github.com/ntoand/react-qr-scanner/issues"
   },
-  "homepage": "https://github.com/kybarg/react-qr-scanner#readme",
+  "homepage": "https://github.com/ntoand/react-qr-scanner#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
